@@ -1,6 +1,6 @@
 # jschtech.github.io
 
-# Hi, I'm Jonah Schmidley! 👋
+# Hi, I'm Jonah! 👋
 
 ### I'm a developer passionate about cloud computing, networking, and building scalable applications.
 
